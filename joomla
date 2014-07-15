@@ -2,3 +2,4 @@ Procedimiento para instalar Joomla en local:
 1.Nos descargamos el fichero de la página oficial
 2.Lo descomprimimos en /var/www
 3.Seguimos instalando...
+4.Creamos una base de datos y una cuenta de usuario con permisos a esa BD.
